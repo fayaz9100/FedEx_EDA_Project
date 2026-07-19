@@ -1,0 +1,301 @@
+ShipmentID,Origin,Destination,Pickup_Date,Delivery_Date,Delivery_Status,Distance_KM,Shipment_Mode,Weight_KG,Cost_USD,Customer_Segment,Delay_Reason
+SHP00001,Chicago,Las Vegas,2025-06-13,2025-06-18,Delayed,152,Air,89.12,493.24,Business,Operational
+SHP00002,Denver,San Francisco,2025-01-08,2025-01-16,Delayed,945,Air,28.3,657.66,Retail,Weather
+SHP00003,Dallas,San Francisco,2025-05-31,2025-06-04,Delivered,76,Ground,91.18,335.85,Retail,None
+SHP00004,Chicago,Las Vegas,2025-01-27,2025-02-02,Delayed,1606,Air,12.06,838.61,Business,Customs
+SHP00005,Atlanta,Boston,2025-05-22,2025-05-28,Delayed,2624,Ground,74.41,1206.66,Business,Operational
+SHP00006,Atlanta,Boston,2025-01-26,2025-02-02,Delivered,1188,Ground,54.68,629.6,Government,Operational
+SHP00007,Los Angeles,Detroit,2025-06-12,2025-06-14,Delivered,2237,Air,87.63,1236.03,Business,None
+SHP00008,Denver,Philadelphia,2025-02-28,2025-03-02,Delivered,1342,Air,48.44,845.28,Business,Operational
+SHP00009,Los Angeles,Phoenix,2025-03-09,2025-03-17,Delivered,1060,Air,89.53,829.84,Government,Customs
+SHP00010,Denver,Philadelphia,2025-05-07,2025-05-12,Delivered,242,Air,103.4,556.67,Government,Operational
+SHP00011,Dallas,Philadelphia,2025-03-06,2025-03-12,Delivered,97,Freight,81.79,397.86,Business,Customs
+SHP00012,Dallas,Houston,2025-03-09,2025-03-15,Delayed,781,Freight,61.17,592.59,Government,Customs
+SHP00013,Chicago,Boston,2025-03-24,2025-03-30,Delayed,129,Ground,13.87,162.89,Government,Customs
+SHP00014,Dallas,Orlando,2025-05-05,2025-05-07,Delivered,2231,Air,92.02,1278.51,Government,None
+SHP00015,Miami,Philadelphia,2025-06-05,2025-06-12,Delivered,917,Ground,111.51,697.57,Business,Customs
+SHP00016,New York,San Francisco,2025-03-05,2025-03-11,Delayed,312,Air,40.9,431.62,Business,Operational
+SHP00017,Dallas,Philadelphia,2025-01-09,2025-01-14,Delivered,340,Ground,61.94,350.51,Business,None
+SHP00018,New York,Boston,2025-05-02,2025-05-10,Delivered,829,Ground,11.77,416.42,Business,Customs
+SHP00019,Dallas,Las Vegas,2025-04-14,2025-04-20,Delayed,1439,Freight,96.17,916.64,Business,Operational
+SHP00020,Chicago,Houston,2025-03-13,2025-03-16,Delivered,1073,Ground,105.0,746.03,Government,None
+SHP00021,Denver,Houston,2025-05-19,2025-05-23,Delivered,432,Air,111.2,666.96,Business,Operational
+SHP00022,Miami,Phoenix,2025-04-08,2025-04-15,Delivered,1649,Air,32.19,931.85,Business,Customs
+SHP00023,Miami,Phoenix,2025-03-17,2025-03-23,Delivered,289,Air,69.71,491.46,Business,Weather
+SHP00024,Los Angeles,Houston,2025-05-11,2025-05-13,Delivered,811,Air,8.69,581.2,Government,Operational
+SHP00025,Seattle,San Francisco,2025-01-21,2025-01-29,Delivered,2742,Ground,70.25,1238.48,Retail,Customs
+SHP00026,Chicago,Boston,2025-04-12,2025-04-17,Delayed,2801,Air,77.64,1414.18,Government,Customs
+SHP00027,Miami,Orlando,2025-02-24,2025-03-05,Delayed,1136,Freight,16.33,603.89,Government,Weather
+SHP00028,Chicago,Phoenix,2025-06-17,2025-06-27,Delayed,82,Freight,80.31,387.31,Retail,Customs
+SHP00029,New York,Boston,2025-03-14,2025-03-22,Delivered,912,Freight,86.25,730.52,Government,Customs
+SHP00030,Denver,Houston,2025-04-19,2025-04-26,Delayed,230,Ground,0.92,179.22,Business,Customs
+SHP00031,Seattle,Houston,2025-01-20,2025-01-28,Delivered,660,Freight,65.7,541.19,Retail,Operational
+SHP00032,Dallas,San Francisco,2025-02-23,2025-03-02,Delivered,1072,Freight,80.2,776.11,Business,None
+SHP00033,Los Angeles,Orlando,2025-02-15,2025-02-20,Delivered,151,Ground,21.93,223.62,Business,None
+SHP00034,Los Angeles,San Francisco,2025-06-29,2025-07-05,Delayed,1616,Air,104.72,1057.91,Business,Operational
+SHP00035,Seattle,Houston,2025-06-18,2025-06-22,Delivered,1682,Air,39.73,934.62,Business,Customs
+SHP00036,Seattle,Las Vegas,2025-03-08,2025-03-14,Delayed,2428,Air,115.52,1373.12,Government,Weather
+SHP00037,Los Angeles,Detroit,2025-05-11,2025-05-16,Delayed,1627,Air,107.99,1074.79,Retail,Customs
+SHP00038,Denver,Orlando,2025-01-18,2025-01-26,Delivered,1402,Freight,74.97,845.13,Government,Customs
+SHP00039,New York,Orlando,2025-02-02,2025-02-08,Delivered,1772,Air,79.96,1064.98,Retail,Operational
+SHP00040,Los Angeles,Philadelphia,2025-02-23,2025-02-28,Delivered,2425,Ground,73.0,1120.46,Government,None
+SHP00041,Los Angeles,San Francisco,2025-02-13,2025-02-23,Delayed,397,Freight,34.41,411.9,Business,Customs
+SHP00042,Los Angeles,Las Vegas,2025-01-07,2025-01-14,Delivered,1052,Air,118.08,924.76,Retail,Weather
+SHP00043,Miami,Houston,2025-04-13,2025-04-15,Delivered,654,Air,78.9,648.81,Government,Weather
+SHP00044,Denver,Philadelphia,2025-03-05,2025-03-12,Delivered,1919,Air,16.43,979.98,Business,Customs
+SHP00045,Atlanta,Philadelphia,2025-05-02,2025-05-07,Delivered,1111,Ground,90.34,713.27,Business,None
+SHP00046,Dallas,San Francisco,2025-03-15,2025-03-21,Delayed,1162,Air,40.63,738.09,Business,Weather
+SHP00047,New York,Las Vegas,2025-04-17,2025-04-25,Delayed,1405,Ground,65.34,741.93,Retail,Weather
+SHP00048,Miami,Houston,2025-01-02,2025-01-09,Delivered,1273,Ground,90.54,749.22,Retail,Operational
+SHP00049,New York,Las Vegas,2025-03-28,2025-04-03,Delivered,2831,Freight,95.88,1426.13,Government,None
+SHP00050,Denver,Detroit,2025-05-25,2025-06-03,Delivered,161,Freight,10.53,234.64,Business,Operational
+SHP00051,Miami,Houston,2025-04-27,2025-05-05,Delivered,1432,Ground,91.47,840.82,Government,Customs
+SHP00052,New York,Phoenix,2025-05-19,2025-05-21,Delayed,1483,Air,27.29,816.51,Business,Weather
+SHP00053,Seattle,Phoenix,2025-02-02,2025-02-06,Delivered,2792,Ground,14.17,1123.18,Government,None
+SHP00054,Atlanta,Las Vegas,2025-06-05,2025-06-14,Delayed,2992,Freight,14.19,1232.8,Retail,Customs
+SHP00055,Chicago,Houston,2025-02-20,2025-02-25,Delivered,2475,Air,83.03,1321.55,Retail,Weather
+SHP00056,Chicago,Las Vegas,2025-05-17,2025-05-26,Delayed,2759,Ground,44.78,1192.46,Retail,Customs
+SHP00057,Atlanta,Detroit,2025-06-12,2025-06-18,Delivered,2947,Ground,18.78,1172.66,Business,Customs
+SHP00058,Miami,Detroit,2025-01-23,2025-01-29,Delivered,1896,Ground,29.64,824.92,Business,None
+SHP00059,Los Angeles,Boston,2025-05-05,2025-05-11,Delivered,1503,Air,95.84,976.68,Business,Customs
+SHP00060,New York,Boston,2025-04-15,2025-04-21,Delivered,2324,Ground,91.1,1128.93,Retail,None
+SHP00061,Denver,Detroit,2025-02-26,2025-03-08,Delivered,2883,Ground,29.57,1181.87,Retail,Customs
+SHP00062,Dallas,San Francisco,2025-06-29,2025-07-05,Delayed,1159,Ground,37.14,571.96,Business,Weather
+SHP00063,Seattle,Phoenix,2025-05-04,2025-05-12,Delayed,2464,Ground,117.2,1231.45,Retail,Customs
+SHP00064,Miami,Boston,2025-01-04,2025-01-12,Delivered,2237,Freight,15.63,1027.11,Business,Weather
+SHP00065,Miami,Boston,2025-05-27,2025-06-03,Delayed,1972,Ground,57.71,955.17,Business,Operational
+SHP00066,Chicago,San Francisco,2025-04-13,2025-04-19,Delayed,353,Ground,69.45,417.18,Business,Operational
+SHP00067,Atlanta,Las Vegas,2025-05-23,2025-06-01,Delivered,2533,Ground,71.74,1183.24,Retail,Operational
+SHP00068,Dallas,San Francisco,2025-05-26,2025-06-02,Delayed,296,Freight,73.35,469.27,Business,Operational
+SHP00069,Los Angeles,Orlando,2025-05-22,2025-05-26,Delivered,691,Air,0.82,481.29,Government,None
+SHP00070,Los Angeles,Phoenix,2025-03-14,2025-03-22,Delayed,1909,Freight,9.01,846.66,Retail,Customs
+SHP00071,Atlanta,Las Vegas,2025-02-06,2025-02-10,Delivered,294,Air,20.33,399.81,Retail,Customs
+SHP00072,Atlanta,Houston,2025-05-09,2025-05-21,Delivered,2072,Freight,52.81,1021.28,Business,Weather
+SHP00073,Miami,Orlando,2025-02-28,2025-03-06,Delayed,2406,Freight,70.66,1189.91,Business,Customs
+SHP00074,Seattle,Detroit,2025-05-30,2025-06-02,Delivered,2650,Ground,97.8,1253.1,Government,None
+SHP00075,Chicago,Detroit,2025-01-27,2025-02-03,Delivered,1400,Air,49.69,831.46,Retail,Customs
+SHP00076,Los Angeles,Detroit,2025-03-24,2025-03-25,Delivered,1705,Air,103.86,1090.81,Government,None
+SHP00077,Miami,Boston,2025-05-08,2025-05-16,Delayed,1860,Freight,91.32,1046.45,Business,Customs
+SHP00078,Chicago,Philadelphia,2025-06-11,2025-06-19,Delivered,1030,Freight,85.32,728.75,Business,Weather
+SHP00079,Los Angeles,Philadelphia,2025-06-15,2025-06-20,Delivered,2091,Air,111.95,1279.34,Government,Customs
+SHP00080,Denver,Detroit,2025-02-07,2025-02-16,Delayed,830,Ground,110.66,672.44,Government,Operational
+SHP00081,Miami,Philadelphia,2025-03-10,2025-03-15,Delivered,1208,Air,87.26,904.14,Retail,None
+SHP00082,Denver,Houston,2025-03-27,2025-04-06,Delayed,2275,Freight,45.58,1078.62,Retail,Operational
+SHP00083,Dallas,Detroit,2025-05-02,2025-05-08,Delivered,1611,Freight,46.64,883.68,Business,None
+SHP00084,Chicago,Philadelphia,2025-04-23,2025-04-27,Delivered,2204,Air,109.3,1311.92,Retail,Operational
+SHP00085,Miami,Houston,2025-03-28,2025-04-04,Delivered,2887,Freight,48.0,1313.26,Government,Customs
+SHP00086,Chicago,Philadelphia,2025-01-18,2025-01-23,Delayed,2635,Air,82.29,1398.45,Business,Operational
+SHP00087,Los Angeles,Las Vegas,2025-06-27,2025-07-02,Delivered,168,Ground,6.0,169.04,Government,Customs
+SHP00088,Los Angeles,Philadelphia,2025-06-24,2025-06-29,Delivered,746,Air,21.42,569.69,Government,None
+SHP00089,Dallas,Boston,2025-02-06,2025-02-12,Delayed,1938,Air,76.73,1136.52,Retail,Customs
+SHP00090,Denver,Philadelphia,2025-03-30,2025-04-09,Delivered,1275,Freight,76.85,792.64,Business,Customs
+SHP00091,New York,Houston,2025-03-02,2025-03-10,Delayed,2392,Ground,43.4,1035.11,Government,Customs
+SHP00092,Dallas,Boston,2025-05-08,2025-05-16,Delayed,992,Ground,73.04,607.53,Government,Operational
+SHP00093,Seattle,Las Vegas,2025-06-15,2025-06-17,Delayed,1315,Air,94.74,962.2,Business,Customs
+SHP00094,Miami,Orlando,2025-02-21,2025-02-26,Delayed,2259,Air,105.24,1318.07,Government,Customs
+SHP00095,Denver,Houston,2025-03-28,2025-04-02,Delivered,1968,Air,115.57,1208.11,Retail,Operational
+SHP00096,Seattle,Boston,2025-05-18,2025-05-21,Delivered,1912,Air,44.55,1045.47,Government,None
+SHP00097,Miami,Orlando,2025-03-01,2025-03-11,Delayed,152,Ground,74.54,305.89,Government,Customs
+SHP00098,Dallas,Las Vegas,2025-04-15,2025-04-17,Delivered,622,Air,5.92,457.74,Retail,Customs
+SHP00099,Miami,Las Vegas,2025-04-05,2025-04-16,Delivered,2902,Freight,113.54,1444.14,Retail,Operational
+SHP00100,Seattle,Detroit,2025-01-09,2025-01-18,Delivered,1567,Freight,26.46,820.81,Business,Operational
+SHP00101,New York,Houston,2025-04-12,2025-04-21,Delayed,827,Ground,116.2,676.7,Retail,Weather
+SHP00102,Dallas,Houston,2025-03-04,2025-03-10,Delayed,2362,Air,25.02,1126.46,Retail,Operational
+SHP00103,Los Angeles,Detroit,2025-02-07,2025-02-10,Delayed,2262,Air,30.45,1085.67,Business,Weather
+SHP00104,Seattle,Boston,2025-02-14,2025-02-22,Delayed,264,Ground,15.65,226.86,Retail,Weather
+SHP00105,New York,Philadelphia,2025-05-09,2025-05-17,Delivered,2569,Air,5.68,1190.62,Retail,Customs
+SHP00106,Chicago,Phoenix,2025-04-20,2025-04-30,Delayed,492,Freight,59.09,500.51,Retail,Weather
+SHP00107,Atlanta,Philadelphia,2025-06-09,2025-06-16,Delivered,2447,Freight,66.03,1224.6,Government,None
+SHP00108,Denver,Detroit,2025-06-04,2025-06-09,Delivered,456,Ground,95.27,511.53,Retail,Operational
+SHP00109,Miami,Boston,2025-04-13,2025-04-19,Delivered,439,Ground,37.85,355.7,Business,Customs
+SHP00110,Seattle,Boston,2025-01-22,2025-01-28,Delayed,1818,Air,12.04,942.59,Retail,Operational
+SHP00111,Los Angeles,Phoenix,2025-04-01,2025-04-08,Delivered,1782,Freight,104.24,1030.09,Government,Customs
+SHP00112,Denver,Houston,2025-05-04,2025-05-11,Delayed,493,Air,42.34,528.61,Government,Customs
+SHP00113,Dallas,Las Vegas,2025-06-18,2025-06-27,Delivered,1145,Freight,3.96,560.62,Business,Customs
+SHP00114,Dallas,Detroit,2025-02-06,2025-02-13,Delivered,2643,Freight,116.63,1382.18,Retail,Operational
+SHP00115,Chicago,Orlando,2025-03-25,2025-04-02,Delayed,2492,Freight,10.65,1050.75,Retail,Operational
+SHP00116,Denver,Boston,2025-06-19,2025-06-28,Delayed,2039,Ground,73.05,965.8,Retail,Customs
+SHP00117,New York,Houston,2025-06-23,2025-07-02,Delayed,2479,Freight,58.65,1217.48,Business,Weather
+SHP00118,Denver,Phoenix,2025-03-19,2025-03-23,Delayed,612,Air,91.82,684.41,Business,Customs
+SHP00119,New York,Las Vegas,2025-04-08,2025-04-19,Delayed,2932,Freight,28.0,1295.11,Business,Customs
+SHP00120,Denver,Orlando,2025-04-28,2025-05-03,Delivered,1332,Air,69.3,895.09,Business,None
+SHP00121,Seattle,Boston,2025-04-14,2025-04-19,Delivered,1380,Air,21.04,803.42,Retail,None
+SHP00122,Los Angeles,Detroit,2025-01-28,2025-02-04,Delivered,1834,Air,70.87,1076.74,Business,Weather
+SHP00123,Dallas,San Francisco,2025-01-20,2025-01-31,Delivered,2643,Freight,14.13,1152.6,Business,Operational
+SHP00124,Miami,Detroit,2025-02-07,2025-02-14,Delayed,858,Ground,21.23,450.9,Government,Weather
+SHP00125,Chicago,Orlando,2025-03-22,2025-03-29,Delivered,1851,Air,8.66,892.0,Retail,Customs
+SHP00126,Denver,Philadelphia,2025-04-26,2025-05-02,Delayed,283,Air,44.56,461.64,Government,Weather
+SHP00127,Dallas,Houston,2025-05-22,2025-06-03,Delivered,218,Freight,54.24,385.01,Retail,Operational
+SHP00128,Miami,Phoenix,2025-01-27,2025-02-03,Delayed,2975,Ground,10.58,1162.91,Retail,Weather
+SHP00129,Denver,Orlando,2025-04-06,2025-04-12,Delivered,1636,Ground,49.35,780.82,Retail,Weather
+SHP00130,Denver,Phoenix,2025-06-18,2025-06-29,Delivered,665,Freight,40.34,537.63,Government,Operational
+SHP00131,Seattle,Houston,2025-01-22,2025-01-30,Delayed,2339,Ground,45.51,1038.1,Retail,Operational
+SHP00132,Atlanta,Boston,2025-03-21,2025-03-26,Delayed,927,Air,41.34,652.96,Government,Operational
+SHP00133,Dallas,Philadelphia,2025-05-19,2025-05-27,Delivered,2206,Freight,5.01,943.86,Business,Operational
+SHP00134,Atlanta,Philadelphia,2025-04-16,2025-04-23,Delivered,2820,Ground,86.49,1296.62,Business,Customs
+SHP00135,Dallas,San Francisco,2025-04-05,2025-04-16,Delivered,2386,Freight,118.14,1300.28,Government,Customs
+SHP00136,Dallas,Orlando,2025-02-05,2025-02-12,Delayed,263,Ground,77.12,352.17,Retail,Weather
+SHP00137,New York,Las Vegas,2025-05-12,2025-05-14,Delivered,1841,Air,11.46,944.93,Business,None
+SHP00138,Chicago,Detroit,2025-04-12,2025-04-18,Delayed,1581,Freight,28.68,791.3,Business,Customs
+SHP00139,Chicago,Houston,2025-02-05,2025-02-11,Delivered,1225,Air,110.13,949.98,Retail,Operational
+SHP00140,Atlanta,San Francisco,2025-02-25,2025-03-02,Delivered,2297,Air,112.86,1301.49,Retail,None
+SHP00141,Miami,Houston,2025-02-01,2025-02-06,Delivered,1026,Air,50.67,704.48,Government,None
+SHP00142,Seattle,San Francisco,2025-05-12,2025-05-19,Delivered,1040,Freight,86.37,721.38,Government,None
+SHP00143,New York,Las Vegas,2025-04-17,2025-04-25,Delayed,2771,Air,80.35,1415.33,Retail,Customs
+SHP00144,Chicago,Detroit,2025-01-12,2025-01-20,Delivered,1634,Freight,117.73,1025.14,Business,Weather
+SHP00145,Miami,Phoenix,2025-01-12,2025-01-16,Delivered,2286,Ground,40.96,1027.25,Business,None
+SHP00146,Atlanta,Las Vegas,2025-01-17,2025-01-24,Delayed,1924,Freight,4.92,854.14,Government,Weather
+SHP00147,Seattle,Orlando,2025-05-02,2025-05-07,Delivered,199,Ground,90.52,408.85,Business,Customs
+SHP00148,Seattle,Orlando,2025-04-05,2025-04-13,Delayed,1688,Ground,89.33,916.72,Business,Customs
+SHP00149,Atlanta,Orlando,2025-04-19,2025-04-22,Delivered,1813,Air,72.49,1033.33,Retail,Customs
+SHP00150,Seattle,Las Vegas,2025-06-04,2025-06-13,Delivered,1795,Freight,20.41,870.84,Retail,Customs
+SHP00151,Miami,Houston,2025-06-13,2025-06-18,Delayed,357,Air,80.71,547.22,Business,Customs
+SHP00152,Seattle,Detroit,2025-01-18,2025-01-25,Delayed,2692,Air,44.28,1295.47,Retail,Weather
+SHP00153,New York,Phoenix,2025-01-20,2025-01-29,Delivered,613,Freight,63.77,575.23,Retail,Customs
+SHP00154,Atlanta,Philadelphia,2025-05-13,2025-05-18,Delivered,2350,Ground,14.57,940.34,Business,None
+SHP00155,Chicago,Orlando,2025-02-01,2025-02-08,Delivered,353,Air,54.52,495.24,Retail,Weather
+SHP00156,Dallas,San Francisco,2025-02-10,2025-02-17,Delayed,2956,Freight,111.32,1510.88,Retail,Customs
+SHP00157,Miami,Las Vegas,2025-01-07,2025-01-14,Delayed,2319,Ground,68.89,1065.54,Retail,Operational
+SHP00158,Seattle,Phoenix,2025-05-28,2025-05-29,Delivered,563,Air,116.7,725.08,Government,None
+SHP00159,New York,Boston,2025-06-13,2025-06-19,Delivered,795,Freight,92.25,679.82,Government,None
+SHP00160,Atlanta,Phoenix,2025-02-09,2025-02-14,Delivered,724,Ground,19.86,386.1,Government,Customs
+SHP00161,Seattle,Houston,2025-03-19,2025-03-28,Delayed,2235,Freight,11.66,997.7,Business,Operational
+SHP00162,Miami,Orlando,2025-01-21,2025-01-27,Delivered,2677,Air,92.64,1417.63,Government,Operational
+SHP00163,Dallas,Philadelphia,2025-03-19,2025-03-26,Delivered,1053,Ground,96.66,711.85,Retail,Customs
+SHP00164,Seattle,Las Vegas,2025-05-04,2025-05-11,Delivered,885,Ground,41.15,537.79,Business,Customs
+SHP00165,Miami,San Francisco,2025-04-05,2025-04-11,Delivered,2350,Freight,13.19,1011.51,Business,None
+SHP00166,Dallas,Detroit,2025-01-25,2025-01-30,Delivered,1238,Air,113.47,940.52,Government,None
+SHP00167,Atlanta,Philadelphia,2025-03-22,2025-03-27,Delivered,702,Air,60.04,639.72,Business,None
+SHP00168,Miami,Philadelphia,2025-01-24,2025-01-29,Delivered,2120,Ground,55.14,947.37,Retail,Operational
+SHP00169,New York,San Francisco,2025-05-18,2025-05-23,Delivered,490,Air,52.0,519.01,Retail,Customs
+SHP00170,Denver,Detroit,2025-05-22,2025-05-29,Delayed,351,Ground,46.67,363.36,Retail,Customs
+SHP00171,New York,Houston,2025-05-23,2025-05-30,Delivered,640,Ground,24.29,382.3,Business,None
+SHP00172,Denver,Orlando,2025-03-27,2025-04-06,Delivered,2177,Ground,55.11,983.33,Government,Operational
+SHP00173,Chicago,Las Vegas,2025-03-28,2025-04-07,Delivered,2137,Freight,64.11,1073.92,Government,Customs
+SHP00174,Los Angeles,Houston,2025-03-20,2025-03-29,Delivered,2868,Freight,75.7,1351.41,Government,None
+SHP00175,Los Angeles,Houston,2025-05-03,2025-05-08,Delivered,2197,Air,75.67,1179.42,Government,None
+SHP00176,Los Angeles,Las Vegas,2025-06-29,2025-07-02,Delivered,831,Air,2.76,526.56,Government,None
+SHP00177,Denver,Detroit,2025-06-06,2025-06-16,Delivered,305,Ground,84.84,409.07,Business,Operational
+SHP00178,Los Angeles,Orlando,2025-04-28,2025-05-05,Delivered,1452,Freight,65.78,827.61,Government,None
+SHP00179,Seattle,Orlando,2025-03-18,2025-03-20,Delivered,1269,Air,92.66,905.56,Retail,None
+SHP00180,Chicago,Detroit,2025-02-01,2025-02-11,Delayed,2821,Freight,65.41,1296.86,Retail,Customs
+SHP00181,Los Angeles,San Francisco,2025-06-17,2025-06-25,Delivered,2012,Ground,26.07,843.32,Business,Customs
+SHP00182,Chicago,Phoenix,2025-06-21,2025-06-28,Delivered,974,Freight,76.73,718.09,Business,Weather
+SHP00183,Atlanta,Detroit,2025-05-21,2025-05-25,Delivered,1716,Air,78.52,1048.08,Retail,None
+SHP00184,Dallas,Houston,2025-06-15,2025-06-19,Delayed,416,Air,78.45,606.81,Retail,Weather
+SHP00185,Miami,Phoenix,2025-05-07,2025-05-10,Delayed,1235,Air,105.27,921.97,Government,Customs
+SHP00186,Dallas,Houston,2025-04-30,2025-05-08,Delivered,839,Ground,97.15,612.25,Government,Operational
+SHP00187,Chicago,Las Vegas,2025-03-28,2025-04-03,Delivered,2375,Ground,81.09,1126.78,Government,Operational
+SHP00188,Atlanta,Detroit,2025-01-25,2025-01-29,Delivered,625,Air,57.56,591.03,Retail,Weather
+SHP00189,Atlanta,Phoenix,2025-05-30,2025-06-09,Delayed,2396,Freight,1.87,1000.18,Retail,Operational
+SHP00190,Dallas,Philadelphia,2025-06-25,2025-07-03,Delivered,2931,Freight,92.5,1411.1,Business,Customs
+SHP00191,Los Angeles,San Francisco,2025-04-27,2025-05-06,Delivered,2531,Freight,45.15,1189.65,Government,None
+SHP00192,Los Angeles,Phoenix,2025-06-02,2025-06-06,Delayed,2202,Air,53.89,1169.76,Business,Weather
+SHP00193,Miami,Houston,2025-03-25,2025-03-31,Delivered,1859,Freight,14.39,840.64,Retail,None
+SHP00194,Atlanta,Houston,2025-02-03,2025-02-08,Delivered,1751,Freight,55.09,935.43,Retail,None
+SHP00195,Chicago,Houston,2025-03-07,2025-03-08,Delivered,942,Air,69.61,737.44,Business,None
+SHP00196,Denver,Philadelphia,2025-05-01,2025-05-03,Delivered,1225,Air,49.36,789.68,Retail,None
+SHP00197,Denver,Phoenix,2025-04-07,2025-04-13,Delivered,2846,Air,115.72,1504.54,Government,Operational
+SHP00198,Los Angeles,San Francisco,2025-02-27,2025-03-03,Delivered,143,Air,117.43,583.8,Retail,None
+SHP00199,New York,San Francisco,2025-03-30,2025-04-03,Delivered,1179,Air,23.02,733.86,Business,Weather
+SHP00200,Miami,San Francisco,2025-01-18,2025-01-26,Delayed,2482,Air,4.51,1102.18,Government,Weather
+SHP00201,Seattle,San Francisco,2025-02-25,2025-03-03,Delivered,623,Air,60.72,619.65,Retail,Operational
+SHP00202,Dallas,Las Vegas,2025-02-06,2025-02-16,Delayed,2185,Freight,26.91,1036.25,Government,Customs
+SHP00203,Denver,Phoenix,2025-05-07,2025-05-13,Delivered,1460,Air,113.02,1011.2,Government,Customs
+SHP00204,Denver,Las Vegas,2025-05-02,2025-05-04,Delivered,973,Air,36.44,702.89,Government,None
+SHP00205,Chicago,San Francisco,2025-05-16,2025-05-20,Delayed,1640,Air,29.52,915.68,Business,Customs
+SHP00206,Los Angeles,Philadelphia,2025-03-10,2025-03-16,Delayed,2809,Ground,72.79,1271.3,Business,Weather
+SHP00207,Los Angeles,Las Vegas,2025-03-27,2025-04-01,Delivered,112,Ground,25.81,212.88,Business,Weather
+SHP00208,Miami,Philadelphia,2025-05-22,2025-05-31,Delivered,1209,Ground,45.99,625.1,Business,Customs
+SHP00209,Atlanta,Las Vegas,2025-05-01,2025-05-10,Delayed,882,Ground,44.8,494.98,Retail,Weather
+SHP00210,Seattle,Orlando,2025-02-09,2025-02-17,Delivered,1401,Air,27.99,816.8,Retail,Operational
+SHP00211,Dallas,Houston,2025-06-14,2025-06-24,Delayed,2059,Freight,55.57,1036.81,Government,Operational
+SHP00212,Los Angeles,Boston,2025-01-09,2025-01-10,Delivered,2787,Air,6.3,1218.82,Government,None
+SHP00213,New York,Las Vegas,2025-02-08,2025-02-14,Delivered,945,Air,60.94,726.28,Business,Weather
+SHP00214,Chicago,Phoenix,2025-01-05,2025-01-13,Delivered,1175,Freight,64.52,722.52,Business,Weather
+SHP00215,Denver,Philadelphia,2025-02-19,2025-02-27,Delivered,2206,Freight,30.66,1018.07,Government,Customs
+SHP00216,Miami,Houston,2025-03-04,2025-03-11,Delayed,975,Freight,36.35,601.25,Government,Weather
+SHP00217,Los Angeles,San Francisco,2025-01-03,2025-01-14,Delayed,751,Freight,10.38,492.91,Government,Customs
+SHP00218,Seattle,Houston,2025-05-26,2025-05-30,Delayed,1160,Ground,6.06,546.27,Business,Customs
+SHP00219,Denver,Detroit,2025-05-31,2025-06-04,Delayed,2969,Air,98.6,1510.22,Retail,Customs
+SHP00220,Chicago,Detroit,2025-02-05,2025-02-14,Delayed,371,Freight,60.34,438.59,Government,Weather
+SHP00221,Seattle,Las Vegas,2025-06-07,2025-06-16,Delivered,1674,Freight,116.29,1044.43,Retail,Weather
+SHP00222,Atlanta,Phoenix,2025-02-17,2025-02-25,Delayed,2449,Freight,79.45,1202.24,Retail,Customs
+SHP00223,Atlanta,Boston,2025-06-12,2025-06-15,Delayed,1645,Air,38.34,914.45,Business,Weather
+SHP00224,Chicago,Detroit,2025-01-23,2025-01-28,Delivered,1815,Air,54.14,991.38,Government,None
+SHP00225,Chicago,San Francisco,2025-01-24,2025-02-03,Delivered,2499,Freight,94.24,1274.09,Government,Weather
+SHP00226,Chicago,Phoenix,2025-05-14,2025-05-18,Delivered,2857,Air,46.0,1359.94,Retail,Customs
+SHP00227,Miami,San Francisco,2025-03-12,2025-03-16,Delivered,1277,Ground,58.37,700.29,Retail,Customs
+SHP00228,Denver,Phoenix,2025-01-28,2025-02-03,Delivered,1297,Air,1.31,703.51,Retail,Customs
+SHP00229,Miami,San Francisco,2025-03-24,2025-04-02,Delivered,2897,Freight,24.5,1240.24,Retail,Operational
+SHP00230,New York,Philadelphia,2025-04-07,2025-04-17,Delayed,1659,Ground,44.12,802.6,Government,Operational
+SHP00231,Dallas,Orlando,2025-02-23,2025-02-26,Delivered,1243,Ground,99.84,785.04,Business,None
+SHP00232,Denver,Las Vegas,2025-03-06,2025-03-17,Delivered,681,Freight,85.97,623.43,Government,Weather
+SHP00233,Seattle,Phoenix,2025-01-10,2025-01-18,Delayed,2923,Ground,107.51,1390.53,Government,Weather
+SHP00234,Atlanta,San Francisco,2025-06-06,2025-06-11,Delivered,2356,Air,118.04,1328.53,Government,Customs
+SHP00235,Miami,Phoenix,2025-05-13,2025-05-19,Delivered,2427,Freight,82.68,1220.33,Retail,None
+SHP00236,Miami,San Francisco,2025-01-07,2025-01-12,Delayed,478,Ground,35.8,341.93,Government,Weather
+SHP00237,Chicago,Houston,2025-05-04,2025-05-12,Delayed,2000,Ground,12.17,801.89,Retail,Customs
+SHP00238,Miami,San Francisco,2025-06-15,2025-06-19,Delayed,2823,Air,96.11,1472.3,Retail,Operational
+SHP00239,Los Angeles,Philadelphia,2025-06-11,2025-06-15,Delivered,813,Air,77.04,691.2,Government,None
+SHP00240,Dallas,Detroit,2025-04-20,2025-04-27,Delayed,68,Ground,84.72,303.23,Retail,Customs
+SHP00241,Chicago,Detroit,2025-02-20,2025-03-01,Delivered,516,Ground,31.85,350.59,Retail,Customs
+SHP00242,Atlanta,Boston,2025-04-28,2025-05-07,Delayed,756,Freight,97.74,656.25,Business,Weather
+SHP00243,Dallas,Phoenix,2025-04-06,2025-04-16,Delivered,629,Freight,61.54,528.99,Retail,Operational
+SHP00244,Los Angeles,Las Vegas,2025-03-15,2025-03-20,Delivered,816,Air,38.09,626.09,Government,Weather
+SHP00245,Miami,Philadelphia,2025-05-10,2025-05-18,Delivered,2077,Freight,49.39,1038.09,Business,None
+SHP00246,Atlanta,Phoenix,2025-01-22,2025-01-30,Delayed,176,Freight,95.61,454.55,Retail,Customs
+SHP00247,Seattle,Houston,2025-05-25,2025-06-02,Delivered,2078,Freight,66.19,1085.55,Government,Weather
+SHP00248,Seattle,Boston,2025-04-23,2025-04-29,Delivered,945,Freight,118.78,792.81,Retail,Operational
+SHP00249,Los Angeles,San Francisco,2025-01-31,2025-02-06,Delivered,909,Air,97.38,808.83,Business,Customs
+SHP00250,Atlanta,Boston,2025-05-26,2025-06-05,Delivered,2230,Ground,34.09,949.87,Business,Operational
+SHP00251,Los Angeles,Las Vegas,2025-04-16,2025-04-19,Delayed,1185,Air,104.11,927.3,Retail,Operational
+SHP00252,Chicago,Las Vegas,2025-02-06,2025-02-14,Delivered,2640,Freight,32.61,1179.38,Government,None
+SHP00253,Miami,Detroit,2025-03-13,2025-03-24,Delayed,1561,Freight,54.84,833.55,Business,Customs
+SHP00254,Atlanta,Detroit,2025-05-17,2025-05-21,Delivered,942,Ground,116.19,694.67,Government,None
+SHP00255,Miami,Houston,2025-05-28,2025-06-01,Delayed,2368,Air,102.36,1332.03,Business,Weather
+SHP00256,Atlanta,Boston,2025-02-10,2025-02-19,Delayed,1919,Ground,0.58,761.15,Government,Operational
+SHP00257,Los Angeles,Las Vegas,2025-04-03,2025-04-10,Delivered,387,Ground,44.94,331.64,Government,Weather
+SHP00258,Miami,Houston,2025-01-24,2025-02-04,Delayed,439,Freight,0.63,318.73,Business,Weather
+SHP00259,Chicago,Boston,2025-06-28,2025-07-05,Delivered,543,Ground,118.58,558.38,Business,Operational
+SHP00260,Dallas,Philadelphia,2025-03-22,2025-03-29,Delayed,1275,Ground,16.89,590.58,Retail,Operational
+SHP00261,Chicago,Boston,2025-02-24,2025-03-05,Delivered,670,Freight,110.43,701.13,Business,None
+SHP00262,Chicago,San Francisco,2025-02-01,2025-02-10,Delayed,1622,Freight,42.51,836.34,Government,Customs
+SHP00263,Los Angeles,Las Vegas,2025-06-03,2025-06-11,Delayed,2538,Freight,34.55,1157.64,Retail,Customs
+SHP00264,New York,Detroit,2025-06-15,2025-06-19,Delivered,1030,Air,59.64,759.27,Retail,Operational
+SHP00265,Chicago,Houston,2025-02-03,2025-02-11,Delivered,2378,Ground,50.79,1025.2,Retail,Operational
+SHP00266,Chicago,Phoenix,2025-02-25,2025-03-03,Delivered,297,Air,113.87,639.35,Retail,Customs
+SHP00267,Chicago,Orlando,2025-01-22,2025-01-28,Delivered,373,Ground,61.6,383.58,Government,Operational
+SHP00268,New York,Orlando,2025-04-22,2025-04-27,Delivered,1027,Freight,7.42,534.22,Government,None
+SHP00269,Atlanta,Phoenix,2025-06-18,2025-06-26,Delayed,769,Freight,14.77,511.78,Retail,Weather
+SHP00270,Chicago,Orlando,2025-02-02,2025-02-09,Delivered,1150,Freight,88.09,780.23,Government,Weather
+SHP00271,Dallas,Detroit,2025-05-28,2025-06-08,Delayed,365,Freight,59.79,472.81,Business,Customs
+SHP00272,New York,San Francisco,2025-03-07,2025-03-09,Delayed,2400,Air,81.06,1306.07,Business,Operational
+SHP00273,Denver,Detroit,2025-05-01,2025-05-06,Delivered,1618,Ground,110.47,920.74,Retail,Weather
+SHP00274,Denver,Boston,2025-01-20,2025-01-28,Delayed,1577,Freight,14.77,796.28,Retail,Operational
+SHP00275,Atlanta,San Francisco,2025-03-14,2025-03-21,Delivered,1390,Ground,10.82,599.96,Retail,Weather
+SHP00276,New York,San Francisco,2025-04-05,2025-04-12,Delayed,2070,Freight,119.74,1217.82,Government,Operational
+SHP00277,Chicago,San Francisco,2025-03-30,2025-04-09,Delivered,2890,Freight,105.33,1457.92,Government,Weather
+SHP00278,Denver,Detroit,2025-03-02,2025-03-07,Delayed,2065,Ground,115.36,1124.89,Retail,Customs
+SHP00279,Dallas,San Francisco,2025-01-22,2025-02-01,Delayed,441,Freight,60.9,490.26,Retail,Weather
+SHP00280,Los Angeles,Phoenix,2025-03-08,2025-03-15,Delivered,1659,Ground,84.24,866.84,Government,Customs
+SHP00281,Los Angeles,Philadelphia,2025-01-28,2025-02-02,Delivered,482,Air,20.14,469.19,Retail,Customs
+SHP00282,Los Angeles,Detroit,2025-04-29,2025-05-06,Delayed,541,Ground,11.31,295.39,Retail,Weather
+SHP00283,Los Angeles,Boston,2025-05-12,2025-05-16,Delivered,2823,Air,36.21,1328.31,Retail,Weather
+SHP00284,Chicago,Orlando,2025-01-27,2025-01-31,Delayed,547,Air,1.93,438.42,Business,Operational
+SHP00285,Miami,Houston,2025-01-06,2025-01-12,Delayed,859,Air,108.35,788.04,Business,Operational
+SHP00286,Los Angeles,Phoenix,2025-05-27,2025-06-02,Delivered,1667,Ground,59.79,807.31,Retail,None
+SHP00287,Miami,Houston,2025-03-13,2025-03-22,Delivered,658,Ground,4.64,336.16,Business,Operational
+SHP00288,Seattle,Philadelphia,2025-03-13,2025-03-22,Delayed,612,Ground,50.6,452.55,Government,Operational
+SHP00289,Los Angeles,Houston,2025-05-05,2025-05-12,Delayed,2366,Ground,60.54,1062.53,Retail,Customs
+SHP00290,Los Angeles,Orlando,2025-01-15,2025-01-23,Delayed,2218,Ground,43.21,964.88,Government,Operational
+SHP00291,Seattle,Detroit,2025-01-15,2025-01-20,Delayed,2408,Air,101.66,1320.98,Government,Customs
+SHP00292,Dallas,Philadelphia,2025-01-08,2025-01-19,Delayed,2919,Freight,42.53,1306.25,Business,Operational
+SHP00293,Los Angeles,Phoenix,2025-01-24,2025-01-25,Delivered,1002,Air,72.4,744.5,Retail,None
+SHP00294,Chicago,Detroit,2025-02-15,2025-02-25,Delayed,293,Ground,3.12,231.68,Government,Operational
+SHP00295,Denver,Philadelphia,2025-06-19,2025-06-25,Delayed,2450,Ground,12.57,1001.61,Government,Customs
+SHP00296,Dallas,Las Vegas,2025-03-23,2025-03-31,Delayed,2946,Air,116.26,1565.46,Retail,Customs
+SHP00297,New York,Phoenix,2025-06-26,2025-06-29,Delivered,571,Ground,21.74,373.07,Government,None
+SHP00298,Chicago,San Francisco,2025-03-23,2025-03-28,Delivered,954,Freight,76.94,676.99,Retail,None
+SHP00299,Los Angeles,Boston,2025-03-23,2025-03-25,Delivered,2655,Air,106.3,1420.28,Retail,Customs
+SHP00300,Dallas,Las Vegas,2025-03-07,2025-03-11,Delivered,3000,Air,0.65,1315.52,Retail,None
